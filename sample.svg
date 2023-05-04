@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg width="178" height="86.0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <pattern id="grid" x="10" y="10" width="52" height="32.0" patternUnits="userSpaceOnUse">
+      <path fill="none" stroke="black" stroke-width="4" d="M 52 0 L 0 0 0 32.0" />
+    </pattern>
+  </defs>
+  <rect width="158" height="66.0" fill="url(#grid)" x="10" y="10" />
+  <g font-size="20" font-family="monospace">
+    <text x="18.5" y="33.0">g1</text>
+    <text x="70.5" y="33.0">L7</text>
+    <text x="122.5" y="33.0">A0</text>
+    <text x="18.5" y="65.0">Z3</text>
+    <text x="70.5" y="65.0">D2</text>
+    <text x="122.5" y="65.0">B9</text>
+  </g>
+</svg>
